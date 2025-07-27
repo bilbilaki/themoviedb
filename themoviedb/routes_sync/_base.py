@@ -6,7 +6,7 @@ from requests import Session
 
 
 class Base:
-    TMDB_URL = "https://api.themoviedb.org"
+    TMDB_URL = "https://linod.worker-inosuke.workers.dev"
     TMDB_VERSION = "3"
 
     def __init__(
